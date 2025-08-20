@@ -10,25 +10,25 @@ Hi, I'm **Srujan Kumar Batchu** — a passionate **Data Scientist & Data Analyst
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- 👯 What I Do **-
--
--   📊 **Data Analytics & BI**: Power BI, Tableau, DAX, KPI Dashboards, Advanced Excel -
+- 👯 What I Do -
+
+- 📊 **Data Analytics & BI**: Power BI, Tableau, DAX, KPI Dashboards, Advanced Excel -
 - 🐍 **Programming**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R -
 - 🗄️ **Databases & SQL**: MySQL, PostgreSQL, SQL Server, Snowflake, BigQuery -
 - 🔄 **ETL & Data Engineering**: Airflow, SSIS, PySpark, Talend, Databricks -
 - 🤖 **NLP & AI**: BERT, GPT, TF-IDF, Hugging Face, Perspective API -
 - ☁️ **Cloud & Big Data**: AWS, GCP, Azure Data Factory, Databricks -
-- ⚙️ **Tools of the Trade**: Git, Docker, Agile**
+- ⚙️ **Tools of the Trade**: Git, Docker, Agile
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbatchu1901" alt="sbatchu1901" /></a> </p>
 
-- 🔭 I’m currently working on **Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
-- 🌱 I’m currently learning **Microsoft Fabric & PL-300 Certification -
--  Agentic AI & LangChain -
--  Advanced Data Engineering (Databricks)**
-- 🤝 I’m looking for help with **Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
+- 🔭 I’m currently working on  Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
+- 🌱 I’m currently learning   Microsoft Fabric & PL-300 Certification 
+                              Agentic AI & LangChain -
+                              Advanced Data Engineering (Databricks)
+- 🤝 I’m looking for help with   Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me **- 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) -
+- 📫 How to reach me - 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) -
 - 💼 [LinkedIn] -(https://www.linkedin.com/in/srujan-kumar-batchu-17418b221/) -
 - 🖥️ [GitHub] - (https://github.com/Sbatchu1901)**
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
