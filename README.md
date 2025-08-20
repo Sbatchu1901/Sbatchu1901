@@ -10,7 +10,7 @@ Hi, I'm **Srujan Kumar Batchu** — a passionate **Data Scientist & Data Analyst
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- 👯 What I Do -
+👯 What I Do 
 
 - 📊 **Data Analytics & BI**: Power BI, Tableau, DAX, KPI Dashboards, Advanced Excel -
 - 🐍 **Programming**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R -
@@ -22,19 +22,19 @@ Hi, I'm **Srujan Kumar Batchu** — a passionate **Data Scientist & Data Analyst
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbatchu1901" alt="sbatchu1901" /></a> </p>
 
-- 🔭 I’m currently working on  Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
-- 🌱 I’m currently learning   Microsoft Fabric & PL-300 Certification 
+🔭 I’m currently working on   Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter
+🌱 I’m currently learning     Microsoft Fabric & PL-300 Certification 
                               Agentic AI & LangChain -
                               Advanced Data Engineering (Databricks)
-- 🤝 I’m looking for help with   Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me - 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) -
-- 💼 [LinkedIn] -(https://www.linkedin.com/in/srujan-kumar-batchu-17418b221/) -
-- 🖥️ [GitHub] - (https://github.com/Sbatchu1901)**
-- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🤝 I’m looking for help with   Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📫 How to reach me - 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) 
+💼 [LinkedIn] -(https://www.linkedin.com/in/srujan-kumar-batchu-17418b221/) 
+🖥️ [GitHub] - (https://github.com/Sbatchu1901)
+- ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ⚡ Fun fact **I love combining **AI + Business Analytics** to make tools that **save time, uncover insights, and drive smarter business strategies.****
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srujan kumar batchu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srujan kumar batchu" height="30" width="40" /></a>
