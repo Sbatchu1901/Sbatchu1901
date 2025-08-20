@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Srujan Kumar Batchu</h1>
-<h3 align="center">
-  Hi, I'm Srujan Kumar Batchu — a passionate Data Scientist & Data Analyst blending analytics with AI to create impactful, intelligent applications. I specialize in turning raw data into actionable insights through predictive modeling, BI dashboards, and AI-powered solutions that drive smarter decision-making. 
-  
+
+### Data Scientist & Data Analyst | AI & BI Enthusiast  
+
+Hi, I'm **Srujan Kumar Batchu** — a passionate **Data Scientist & Data Analyst** blending analytics with AI to create impactful, intelligent applications.  
+I specialize in **turning raw data into actionable insights** through **predictive modeling, BI dashboards, and AI-powered solutions** that drive smarter decision-making.  
+
   🚀 Data Science meets Business Intelligence — crafted for results.</h3>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,9 +20,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbatchu1901" alt="sbatchu1901" /></a> </p>
 
 - 🔭 I’m currently working on **Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
-
-- 🌱 I’m currently learning **Microsoft Fabric & PL-300 Certification - Agentic AI & LangChain - Advanced Data Engineering (Databricks)**
-- 
+- 🌱 I’m currently learning **Microsoft Fabric & PL-300 Certification -
+-  Agentic AI & LangChain -
+-  Advanced Data Engineering (Databricks)**
 - 🤝 I’m looking for help with **Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 📫 How to reach me **- 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) -
