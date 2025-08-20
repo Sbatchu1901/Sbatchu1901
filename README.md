@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Srujan Kumar Batchu</h1>
 
-### Data Scientist & Data Analyst | AI & BI Enthusiast  
+ <h2 align="center"> Data Scientist & Data Analyst | AI & BI Enthusiast</h2>
 
-Hi, I'm **Srujan Kumar Batchu** — a passionate **Data Scientist & Data Analyst** blending analytics with AI to create impactful, intelligent applications.  
-I specialize in **turning raw data into actionable insights** through **predictive modeling, BI dashboards, and AI-powered solutions** that drive smarter decision-making.  
+Hi, I'm **Srujan Kumar Batchu** — a passionate **Data Scientist & Data Analyst** blending analytics with AI to create impactful, intelligent applications.I specialize in **turning raw data into actionable insights** through **predictive modeling, BI dashboards, and AI-powered solutions** that drive smarter decision-making.  
 
   🚀 Data Science meets Business Intelligence — crafted for results.</h3>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- 👯 What I Do **- 📊 **Data Analytics & BI**: Power BI, Tableau, DAX, KPI Dashboards, Advanced Excel -
+- 👯 What I Do **-
+-
+-   📊 **Data Analytics & BI**: Power BI, Tableau, DAX, KPI Dashboards, Advanced Excel -
 - 🐍 **Programming**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R -
 - 🗄️ **Databases & SQL**: MySQL, PostgreSQL, SQL Server, Snowflake, BigQuery -
 - 🔄 **ETL & Data Engineering**: Airflow, SSIS, PySpark, Talend, Databricks -
