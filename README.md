@@ -23,8 +23,8 @@
 - 🤝 I’m looking for help with **Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 📫 How to reach me **- 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) -
-- 💼 [LinkedIn](https://www.linkedin.com/in/srujan-kumar-batchu-17418b221/) -
-- 🖥️ [GitHub](https://github.com/Sbatchu1901)**
+- 💼 [LinkedIn] -(https://www.linkedin.com/in/srujan-kumar-batchu-17418b221/) -
+- 🖥️ [GitHub] - (https://github.com/Sbatchu1901)**
 - -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ⚡ Fun fact **I love combining **AI + Business Analytics** to make tools that **save time, uncover insights, and drive smarter business strategies.****
