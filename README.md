@@ -1,17 +1,31 @@
 <h1 align="center">Hi 👋, I'm Srujan Kumar Batchu</h1>
-<h3 align="center">Hi, I'm Srujan Kumar Batchu — a passionate Data Scientist & Data Analyst blending analytics with AI to create impactful, intelligent applications. I specialize in turning raw data into actionable insights through predictive modeling, BI dashboards, and AI-powered solutions that drive smarter decision-making. 🚀 Data Science meets Business Intelligence — crafted for results.</h3>
+<h3 align="center">
+  Hi, I'm Srujan Kumar Batchu — a passionate Data Scientist & Data Analyst blending analytics with AI to create impactful, intelligent applications. I specialize in turning raw data into actionable insights through predictive modeling, BI dashboards, and AI-powered solutions that drive smarter decision-making. 
+  
+  🚀 Data Science meets Business Intelligence — crafted for results.</h3>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+- 👯 What I Do **- 📊 **Data Analytics & BI**: Power BI, Tableau, DAX, KPI Dashboards, Advanced Excel -
+- 🐍 **Programming**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R -
+- 🗄️ **Databases & SQL**: MySQL, PostgreSQL, SQL Server, Snowflake, BigQuery -
+- 🔄 **ETL & Data Engineering**: Airflow, SSIS, PySpark, Talend, Databricks -
+- 🤖 **NLP & AI**: BERT, GPT, TF-IDF, Hugging Face, Perspective API -
+- ☁️ **Cloud & Big Data**: AWS, GCP, Azure Data Factory, Databricks -
+- ⚙️ **Tools of the Trade**: Git, Docker, Agile**
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbatchu1901" alt="sbatchu1901" /></a> </p>
 
 - 🔭 I’m currently working on **Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
 
 - 🌱 I’m currently learning **Microsoft Fabric & PL-300 Certification - Agentic AI & LangChain - Advanced Data Engineering (Databricks)**
-
-- 👯 What I Do **- 📊 **Data Analytics & BI**: Power BI, Tableau, DAX, KPI Dashboards, Advanced Excel - 🐍 **Programming**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch), R - 🗄️ **Databases & SQL**: MySQL, PostgreSQL, SQL Server, Snowflake, BigQuery - 🔄 **ETL & Data Engineering**: Airflow, SSIS, PySpark, Talend, Databricks - 🤖 **NLP & AI**: BERT, GPT, TF-IDF, Hugging Face, Perspective API - ☁️ **Cloud & Big Data**: AWS, GCP, Azure Data Factory, Databricks - ⚙️ **Tools of the Trade**: Git, Docker, Agile**
-
+- 
 - 🤝 I’m looking for help with **Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter**
-
-- 📫 How to reach me **- 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) - 💼 [LinkedIn](https://www.linkedin.com/in/srujan-kumar-batchu-17418b221/) - 🖥️ [GitHub](https://github.com/Sbatchu1901)**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 📫 How to reach me **- 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) -
+- 💼 [LinkedIn](https://www.linkedin.com/in/srujan-kumar-batchu-17418b221/) -
+- 🖥️ [GitHub](https://github.com/Sbatchu1901)**
+- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ⚡ Fun fact **I love combining **AI + Business Analytics** to make tools that **save time, uncover insights, and drive smarter business strategies.****
 
