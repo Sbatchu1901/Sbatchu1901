@@ -29,7 +29,8 @@ Hi, I'm **Srujan Kumar Batchu** — a passionate ** Data Scientist & Data Analys
                               
 🤝 I’m looking for help with   Personalized agentic system that reads your resume + GitHub + LinkedIn + job posts and gives feedback like a recruiter
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📫 How to reach me - 📧 [srujankumarbatchu2@gmail.com](mailto:srujankumarbatchu2@gmail.com) 
+📫 How to reach me  
+📧 [srujankumarbatchu2@gmail.com] - (mailto:srujankumarbatchu2@gmail.com) 
 💼 [LinkedIn] -(https://www.linkedin.com/in/srujan-kumar-batchu-17418b221/) 
 🖥️ [GitHub] - (https://github.com/Sbatchu1901)
 - ------------------------------------------------------------------------------------------------------------------------------------------------------------------
